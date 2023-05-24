@@ -1,2 +1,0 @@
-# AudioLangDetection
-Audio Language Detection
