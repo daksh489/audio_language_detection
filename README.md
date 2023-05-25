@@ -11,7 +11,7 @@ Finally, the dataset is divided into train and test set. Speakers present in the
 The core of the train set is based on 420 minutes (2520 samples) of original recordings. After applying several audio transformations (pitch, speed, and noise) the train set was extended to 12180 minutes (73080 samples).
 The test set contains 90 minutes (540 samples) of original recordings. No data augmentation has been applied. Original recordings contain 90 unique speakers. The number of unique speakers was increased by adjusting pitch (8 different levels) and speed (8 different levels). After applying audio transformations there are 1530 unique speakers.
 
-### The dataset is divided into 002 directories:
+### The dataset is divided into 2 directories:
 * train (73080 samples)
 * test (540 samples)
 ### Each sample is an FLAC audio file with:
